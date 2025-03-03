@@ -1,5 +1,6 @@
 # Kasir Toko Buku
-Sebuah program menggunakan Python yang berguna untuk mengitung total semua pesanan barang yang dibeli pada toko buku
+Sebuah program menggunakan Python yang berguna untuk mengitung total semua pesanan barang yang dibeli pada toko buku.
+
 Program ini masih dalam tahap pengembangan.
 
 # Fitur
