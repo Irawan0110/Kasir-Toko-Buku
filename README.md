@@ -4,7 +4,7 @@ Program ini masih dalam tahap pengembangan.
 
 # Fitur
 * Pilih barang yang dibeli
-Jumlah barang
+* Jumlah barang
 Total
 Masukan uang anda
 Kembalian
