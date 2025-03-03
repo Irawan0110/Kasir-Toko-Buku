@@ -3,12 +3,12 @@ Sebuah program menggunakan Python yang berguna untuk mengitung total semua pesan
 Program ini masih dalam tahap pengembangan.
 
 # Fitur
-# >Pilih barang yang dibeli
-# >Jumlah barang
-# >Total
-# >Masukan uang anda
-# >Kembalian
-# >Clear
+Pilih barang yang dibeli
+Jumlah barang
+Total
+Masukan uang anda
+Kembalian
+Clear
 
 
 
